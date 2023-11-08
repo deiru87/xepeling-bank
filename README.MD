@@ -3,7 +3,7 @@
 > Proyecto que contiene lo realizado para la ejecución de la prueba tecnica de ingreso a Xepelin
 
 ## Arquitectura
-![xepeling-arch](arch.png)
+![xepeling-arch](./img/arch.png)
 
 > La arquitectura esta conformada
 
@@ -247,22 +247,22 @@ Respuesta cuando se pasan mal parametros
 A continuación de relacionan las imagenes evidencias del front-end operando en conjunto con el backend para crear una cuenta, hacer transacciones y validar el balance de esta.
 
 Pantalla inicial
-![1](1.png)
+![1](./img/1.png)
 Se evidencia la no existencia de un usuario o tomador de cuenta, por ende una cuenta
-![2](2.png)
+![2](./img/2.png)
 Se crea una cuenta
-![3](3.png)
+![3](./img/3.png)
 Se refleja la cuenta en dynamo
-![4](4.png)
+![4](./img/4.png)
 Se observa que el middleware imprime la ocurrecia de evento superior a 10000
-![7](7.png)
+![7](./img/7.png)
 Despues de hacer dos depositos de 10000 validamos balance
-![10](10.png)
+![10](./img/10.png)
 De igual forma en dynamo
-![9](9.png)
+![9](./img/9.png)
 Validamos retiro
-![11](11.png)
+![11](./img/11.png)
 revisamos dynamo
-![12](12.png)
+![12](./img/12.png)
 Validaciones generales de error
-![13](13.png)
+![13](./img/13.png)
