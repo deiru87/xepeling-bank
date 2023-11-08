@@ -247,22 +247,22 @@ Respuesta cuando se pasan mal parametros
 A continuación de relacionan las imagenes evidencias del front-end operando en conjunto con el backend para crear una cuenta, hacer transacciones y validar el balance de esta.
 
 Pantalla inicial
-![im1](img/1.PNG)
+![imm1](img/1.PNG)
 Se evidencia la no existencia de un usuario o tomador de cuenta, por ende una cuenta
-![im2](./img/2.PNG)
+![imm2](./img/2.PNG)
 Se crea una cuenta
-![im3](./img/3.PNG)
+![imm3](./img/3.PNG)
 Se refleja la cuenta en dynamo
-![im4](./img/4.PNG)
+![imm4](./img/4.PNG)
 Se observa que el middleware imprime la ocurrecia de evento superior a 10000
-![im7](./img/7.PNG)
+![imm7](./img/7.PNG)
 Despues de hacer dos depositos de 10000 validamos balance
-![im10](./img/10.PNG)
+![imm10](./img/10.PNG)
 De igual forma en dynamo
-![im9](./img/9.PNG)
+![imm9](./img/9.PNG)
 Validamos retiro
-![im11](./img/11.PNG)
+![imm11](./img/11.PNG)
 revisamos dynamo
-![im12](./img/12.PNG)
+![imm12](./img/12.PNG)
 Validaciones generales de error
-![im13](./img/13.PNG)
+![imm13](./img/13.PNG)
